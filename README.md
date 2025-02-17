@@ -1,6 +1,6 @@
 > [!NOTE]
 > # Wisdom Panel Version
-> **Note: This branch is forked from the pre-released [sdk-v3](https://github.com/Shopify/js-buy-sdk/tree/sdk-v3) branch and published to our private package registry @wisdomhealth-inc/shopify-js-buy-sdk
+> This branch is forked from the pre-released [sdk-v3](https://github.com/Shopify/js-buy-sdk/tree/sdk-v3) branch and published to our private package registry @wisdomhealth-inc/shopify-js-buy-sdk
 
 > [!CAUTION]
 > # Deprecation notice
